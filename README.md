@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-I'm Puneet Sharma, a dedicated software engineer with a focus on Flutter development. With a strong passion for crafting beautiful and efficient mobile applications, I thrive on turning innovative ideas into reality. My journey in software development is a continuous learning process, and I love exploring new technologies to stay ahead in this ever-evolving field.
 
 👋 Hello World! I'm Puneet Sharma, a passionate software engineer 🚀
 💻 flutter developer
